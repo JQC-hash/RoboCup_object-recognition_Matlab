@@ -1,5 +1,10 @@
 # RoboCup_object-recognition_Matlab
 
+<p align="center">
+  <img src="https://github.com/JQC-hash/RoboCup_object-recognition_Matlab/blob/main/RoboCup_Recognition.png">
+</p>
+
+
 RoboCup is an annual international robotics competition proposed and founded in 1996 by a group of university professors. The aim of the competition is to promote robotics and AI research by offering a publicly appealing but formidable challenge. https://www.robocup.org/
 
 This program was created using Matlab Computer Vision System Toolbox. The aim is to recognize the goal lines, the court boundaries and the soccer ball in 2015 RoboCup settings, with the precondition that the goal is white, and ball is bright red(low hue, high saturation). If the goal and ball is of other color, the source and threshold values need to be adjusted to generate suitable binary images as inputs for functions.
