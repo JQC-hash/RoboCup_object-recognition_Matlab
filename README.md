@@ -1,4 +1,4 @@
-# Robocup_object-recognition_Matlab
+# RoboCup_object-recognition_Matlab
 
 RoboCup is an annual international robotics competition proposed and founded in 1996 by a group of university professors. The aim of the competition is to promote robotics and AI research by offering a publicly appealing but formidable challenge. https://www.robocup.org/
 
